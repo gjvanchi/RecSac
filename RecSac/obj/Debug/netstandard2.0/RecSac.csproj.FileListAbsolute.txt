@@ -1,0 +1,12 @@
+/Users/vanchi/Projects/RecSac/RecSac/bin/Debug/netstandard2.0/RecSac.deps.json
+/Users/vanchi/Projects/RecSac/RecSac/bin/Debug/netstandard2.0/RecSac.dll
+/Users/vanchi/Projects/RecSac/RecSac/bin/Debug/netstandard2.0/RecSac.pdb
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/RecSac.csproj.CoreCompileInputs.cache
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/RecSac.AssemblyInfoInputs.cache
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/RecSac.AssemblyInfo.cs
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/RecSac.dll
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/RecSac.pdb
+/Users/vanchi/Projects/RecSac/RecSac/obj/Debug/netstandard2.0/RecSac.csprojAssemblyReference.cache
